@@ -50,3 +50,7 @@ optional arguments:
   --source SOURCE  source path of csv file
   --dest DEST      destination of preprocessed csv file
 ```
+---
+## Proposed Model Code
+
+`code/prposed_model.py` contains the code to build model proposed.
